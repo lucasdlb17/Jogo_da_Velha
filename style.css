@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(233, 233, 233);
+}
+div {
+    text-align: center;
+}
+.logo{
+    height: 160px;
+}
+.menu {
+    border-radius: 30px;
+    padding: 60px;
+    margin: 0 25% 0 25%;
+    background-color: #990000;
+}
+.placar{
+    margin: 0 0 0 0;
+    padding: 5% 10%;
+    font-size: 300%;
+}
+h1{
+    font-family: Arial;
+    font-size: 400%;
+}
+.escolha{
+    font-size: 200%;
+    height: 18%;
+    width: 20%;
+    margin: 8%;
+}
+.line {
+    margin: 0;
+    display: inline-flex;
+}
+.slot {
+    width: 25%;
+    height: 22%;
+    background-color: #990000;
+    border-radius: 10px;
+    text-align: center;
+    margin: -10px;
+}
+.bb{
+    border-bottom: 18px solid black;
+}
+.br{
+    border-right: 18px solid black; 
+}
+.bl{
+    border-left: 18px solid black; 
+}
+.bt{
+    border-top: 18px solid black; 
+}
+
+img.simb {
+    width: 100%;
+    height: 100%;
+}
+
